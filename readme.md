@@ -1,0 +1,2 @@
+This repo is created for the HW1 of the course ME 5920. All the data is included in the repo and the code is writen in a colab notebook. The link to the video explaining the intuition of the codes is here:
+https://drive.google.com/file/d/1tQmKIjP02jFwJlbhiWtGCt_akVCnaXd_/view?usp=sharing 
